@@ -1,0 +1,24 @@
+Objective 
+Build a backend service that mimics a simplified version of Twitter, where users can create tweets, follow other users, and view tweets from the users they follow. 
+The precise functional requirements are given below as user stories. It is intentionally kept simple to allow developers to demonstrate their ability to write scalable software. 
+Please ensure that you include a README file with setup instructions. If you are unable to implement some of the improvements due to time constraints, please document them as improvement points in the documentation. You can also use the README to document any assumptions you have made. 
+Create a Tweet 
+As a user, 
+I want to create a new tweet with a text message, 
+So that I can share my thoughts with my followers 
+Follow another user 
+As a user, 
+I want to follow another user, 
+So that I can see their tweets in my feed 
+Timeline 
+As a user, 
+I want to view tweets from the users I follow in my timeline, 
+So that I can stay updated with their latest posts and updates 
+Evaluation criterion 
+● Focus on core competencies 
+○ Emphasise evaluating data modelling, and basic API design 
+○ Evaluate scalability and extendability, but keep expectations moderate due to reduced scope 
+● Code quality and organisation 
+● Handling of edge cases and errors 
+● Quality and coverage of tests 
+● Clarity and completeness of documentation
